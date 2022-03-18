@@ -43,6 +43,7 @@ out/
 *.iml
 *.ipr
 *.iws
+.idea/workspace.xml
 
 ##############################
 ## Eclipse
@@ -82,3 +83,4 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+
